@@ -10,7 +10,7 @@
 ## 02 : Loss function and gradient descent method
 
 <img src="https://github.com/okagen/study/blob/master/Data/02-1_LossFunctionandGradientDescentMethod_LearningCurve.png" width="300">
-<video src="https://github.com/okagen/study/blob/master/Data/02-2_LossFunctionandGradientDescentMethod.mp4"></video>
+<img src="https://github.com/okagen/study/blob/master/Data/02-2_LossFunctionandGradientDescentMethod.gif" width="300">
 
 ## 03 : Tkinter in python.
 
