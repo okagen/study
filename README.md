@@ -1,7 +1,6 @@
 # study
 
 ## 01 : Google Colaboratory and Prophet
-Time series forecasting with Prophet. / Prophetを用いて、時系列予測を行った。  
 Create a Jupyter Notebook provided by Google Coloaboratory in Google Drive, and execute the following in it. / Google Drive内にGoogle Coloaboratoryで提供されるJupyter Notebookを作成し、その中で以下を実行。
 
   * Show the data which was downloaded from Kaggole on a line charta as below then plot a predict line and a confidence interval in it. / Kaggoleからダウンロードしたデータの一部を折れ線グラフにし、predict()を用いてその先を予測し、信頼区間を描画。
