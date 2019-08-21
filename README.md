@@ -3,7 +3,7 @@
 ## 01 : Google Colaboratory and Prophet
 Create a Jupyter Notebook provided by Google Coloaboratory in Google Drive, and execute the following in it. / Google Drive内にGoogle Coloaboratoryで提供されるJupyter Notebookを作成し、その中で以下を実行。
 
-  * Show the data which was downloaded from Kaggole on a line charta as below then plot a predict line and a confidence interval in it. / Kaggoleからダウンロードしたデータの一部を折れ線グラフにし、predict()を用いてその先を予測し、信頼区間を描画。
+  * Show the data which was downloaded from Kaggole on a line chart as below then plot a predict line and a confidence interval in it. / Kaggoleからダウンロードしたデータの一部を折れ線グラフにし、predict()を用いてその先を予測し、信頼区間を描画。
   * Show significant changepoints of trend on prophet forecast plot. / トレンドの変化点を描画。
   
 <img src="https://github.com/okagen/study/blob/master/Data/01-1_GoogleColaboratory_Prophet_predict.png" width="300"><img src="https://github.com/okagen/study/blob/master/Data/01-2-1_GoogleColaboratory_ChangePoints.png" width="300">
