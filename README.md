@@ -28,3 +28,7 @@ Create a Jupyter Notebook provided by Google Coloaboratory in Google Drive, and 
 
 <img src="https://github.com/okagen/study/blob/master/Data/03_Tkinter_reversi.png" width="300">
 
+## 04 : By python, open an excel file and execute a macro in it then close it.
+
+<img src="https://github.com/okagen/study/blob/master/Data/04_pyOpenExel_executeMacro_closeExcel.png" width="600">
+
