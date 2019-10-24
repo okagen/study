@@ -32,3 +32,9 @@ Create a Jupyter Notebook provided by Google Coloaboratory in Google Drive, and 
 
 <img src="https://github.com/okagen/study/blob/master/Data/04_pyOpenExel_executeMacro_closeExcel.png" width="600">
 
+## 05 : Boids on the pygame.
+
+<img src="https://github.com/okagen/study/blob/master/Data/05_pygame_Boids.png" width="400">
+
+
+
