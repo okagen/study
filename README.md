@@ -25,6 +25,10 @@ Create a Jupyter Notebook provided by Google Coloaboratory in Google Drive, and 
 <img src="https://github.com/okagen/study/blob/master/Data/02-2_LossFunctionandGradientDescentMethod.gif" width="300">
 
 ## 03 : Tkinter in python.
+  * 以下の方法で、コンピュータ側の打ち手を計算する。
+    1. ランダム
+    1. ミニマックス法
+    1. アルファベータ法
 
 <img src="https://github.com/okagen/study/blob/master/Data/03_Tkinter_reversi.png" width="300">
 
@@ -33,6 +37,7 @@ Create a Jupyter Notebook provided by Google Coloaboratory in Google Drive, and 
 <img src="https://github.com/okagen/study/blob/master/Data/04_pyOpenExel_executeMacro_closeExcel.png" width="600">
 
 ## 05 : Boids on the pygame.
+
 
 <img src="https://github.com/okagen/study/blob/master/Data/05_pygame_Boids.png" width="400">
 
