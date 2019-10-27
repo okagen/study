@@ -34,6 +34,7 @@ Create a Jupyter Notebook provided by Google Coloaboratory in Google Drive, and 
 
 ## 05 : Boids on the pygame.
 
+
 <img src="https://github.com/okagen/study/blob/master/Data/05_pygame_Boids.png" width="400">
 
 ## 06 : Rock Scissors Paper game by using class method.
