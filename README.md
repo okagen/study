@@ -34,6 +34,7 @@ Create a Jupyter Notebook provided by Google Coloaboratory in Google Drive, and 
 
 ## 04 : By python, open an excel file and execute a macro in it then close it.
   - `win32com.client`ライブラリを使って、Excelファイルを操作。
+  - Excelファイル内に埋め込まれたマクロを実行する。
 
 <img src="https://github.com/okagen/study/blob/master/Data/04_pyOpenExel_executeMacro_closeExcel.png" width="600">
 
