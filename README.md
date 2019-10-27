@@ -37,7 +37,11 @@ Create a Jupyter Notebook provided by Google Coloaboratory in Google Drive, and 
 <img src="https://github.com/okagen/study/blob/master/Data/04_pyOpenExel_executeMacro_closeExcel.png" width="600">
 
 ## 05 : Boids on the pygame.
-
+  - Boidsは、クレイグ・レイノルズが考案・作製。名称は「⿃もどき(bird-oid)」から。
+  - Boidsオブジェクトに以下の三つのフールを与え、オブジェクト多数を同時に動かし群れの振る舞いをシミュレ ーションする。
+    1. 分離（Separation）
+    1. 整列（Alignment）
+    1. 結合（Cohesion）
 
 <img src="https://github.com/okagen/study/blob/master/Data/05_pygame_Boids.png" width="400">
 
