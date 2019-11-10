@@ -49,4 +49,6 @@ Create a Jupyter Notebook provided by Google Coloaboratory in Google Drive, and 
 
 ## 06 : Rock Scissors Paper game by using class method.
 
+<img src="https://github.com/okagen/study/blob/master/Data/06_RockPaperScissors_tkinter_.png" width="400">
+
 
