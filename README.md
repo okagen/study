@@ -48,7 +48,8 @@ Create a Jupyter Notebook provided by Google Coloaboratory in Google Drive, and 
 <img src="https://github.com/okagen/study/blob/master/Data/05_pygame_Boids.png" width="400">
 
 ## 06 : Rock Scissors Paper game by using class method.
-
+  - Classを使ってじゃんけんゲームを作る。UIは`tkinter。`¶
+  - Rock Paper Scissors Game by using class method and `tkinter`.
 <img src="https://github.com/okagen/study/blob/master/Data/06_RockPaperScissors_tkinter_.png" width="400">
 
 
